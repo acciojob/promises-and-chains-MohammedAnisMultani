@@ -2,7 +2,7 @@
  //Promises and Chains
         const inputAge = document.getElementById("age")
         const inputName = document.getElementById("name")
-        const btn = document.getElementById("button")
+        const btn = document.getElementById("btn")
 
         btn.addEventListener("click",(e)=>{
             e.preventDefault()
